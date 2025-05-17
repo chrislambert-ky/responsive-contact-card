@@ -1,7 +1,5 @@
-/* Import CSS reset */
 @import url('./css/reset.css');
 
-/* Base styles for the contact card */
 body {
     min-height: 100vh;
     display: grid;
